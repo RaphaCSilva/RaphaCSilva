@@ -43,6 +43,6 @@ Eu sou desenvolvedor web full stack, buscando aprender cada vez mais.
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### Github Stats 
+## Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphacsilva&show_icons=true&theme=swift)
