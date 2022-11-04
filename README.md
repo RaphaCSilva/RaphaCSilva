@@ -7,6 +7,11 @@ Eu sou desenvolvedor web full stack, buscando aprender cada vez mais.
 
 :writing_hand: Desde muito novo amo tecnologia, sempre me fascinou simplesmente entender como algo funciona, desmontar, remontar, consertar e melhorar, o que me levou a estudar mecânica desde cedo, aos 14 anos eu entrei no CEFET-RJ onde fiz ensino médio-técnico em mecânica industrial e ao terminar reingressei no CEFET-RJ mas dessa vez fazendo engenharia mecânica, mas foi durante a formação que descobri o mundo da programação, desde então busco aprender mais e vou levar isso como minha carreira profissional daqui para frente. 
 
+## Contatos
+
+<a href = "mailto:raphaelcsilvadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/raphacsilva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+
 
 ## Skills 
 
