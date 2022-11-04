@@ -1,17 +1,13 @@
 ### Bem vindo ao meu perfil, meu nome é Raphael Cavalcante Silva! 👋
-2
 
-5
 Eu sou desenvolvedor web full stack, buscando aprender cada vez mais.
-7
-​
-8
+
 🔭 Atualmente estou trabalhando no projeto [Daga](https://github.com/RaphaCSilva/Daga-front-end), ainda esta em andamento, mas vai ser um jogo bem legal
-9
 
-writing_hand Desde muito novo amo tecnologia, sempre me fascinou simplesmente entender como algo funciona, desmontar, remontar, consertar e melhorar, o que me levou a estudar mecânica desde cedo, aos 14 anos eu entrei no CEFET-RJ onde fiz ensino médio-técnico em mecânica industrial e ao terminar reingressei no CEFET-RJ mas dessa vez fazendo engenharia mecânica, mas foi durante a formação que descobri o mundo da programação, desde então busco aprender mais e vou levar isso como minha carreira profissional daqui para frente. 
 
-15
+:writing_hand: Desde muito novo amo tecnologia, sempre me fascinou simplesmente entender como algo funciona, desmontar, remontar, consertar e melhorar, o que me levou a estudar mecânica desde cedo, aos 14 anos eu entrei no CEFET-RJ onde fiz ensino médio-técnico em mecânica industrial e ao terminar reingressei no CEFET-RJ mas dessa vez fazendo engenharia mecânica, mas foi durante a formação que descobri o mundo da programação, desde então busco aprender mais e vou levar isso como minha carreira profissional daqui para frente. 
+
+
 ## Skills 
 
 ### Linguagens
@@ -41,9 +37,3 @@ writing_hand Desde muito novo amo tecnologia, sempre me fascinou simplesmente en
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-
-16
-
-17
-​
