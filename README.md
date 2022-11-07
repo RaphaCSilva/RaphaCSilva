@@ -31,7 +31,14 @@ Eu sou desenvolvedor web full stack, buscando aprender cada vez mais.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Mongo](https://img.shields.io/badge/Mongodb%20-%2320232a.svg?&style=for-the-badge&color=47A248&logo=MongoDB&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%2320232a.svg?&style=for-the-badge&color=4169E1&logo=PostgreSQL&logoColor=ffffff)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Testes
+
+![Cypress](https://img.shields.io/badge/Cypress%20-%2320232a.svg?&style=for-the-badge&color=17202C&logo=Cypress&logoColor=ffffff)
+![Jest](https://img.shields.io/badge/jest%20-%2320232a.svg?&style=for-the-badge&color=C21325&logo=jest&logoColor=ffffff)
 
 ### Ferramentas
 
