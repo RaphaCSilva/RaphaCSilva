@@ -1,11 +1,26 @@
-### Bem vindo ao meu perfil, meu nome é Raphael Cavalcante Silva! 👋
+### Bem vindo ao meu perfil! 👋
 
-Eu sou desenvolvedor web full stack, buscando aprender cada vez mais.
-
-🔭 Atualmente estou trabalhando no projeto [Daga](https://github.com/RaphaCSilva/Daga-front-end), ainda esta em andamento, mas vai ser um jogo bem legal
-
-
-:writing_hand: Desde muito novo amo tecnologia, sempre me fascinou simplesmente entender como algo funciona, desmontar, remontar, consertar e melhorar, o que me levou a estudar mecânica desde cedo, aos 14 anos eu entrei no CEFET-RJ onde fiz ensino médio-técnico em mecânica industrial e ao terminar reingressei no CEFET-RJ mas dessa vez fazendo engenharia mecânica, mas foi durante a formação que descobri o mundo da programação, desde então busco aprender mais e vou levar isso como minha carreira profissional daqui para frente. 
+<ul>
+  <li>
+    :bearded_person: Meu nome é Raphael Cavalcante Silva, sou desenvolvedor web full stack em inicio de carreira, buscando aprender cada vez mais.
+  </li>
+  <br/>
+  <li>
+    🔭 Atualmente estou trabalhando no projeto <a href = "https://github.com/RaphaCSilva/Daga-front-end"> Daga</a>, ainda esta em andamento, mas vai ser um jogo bem legal
+  </li>
+  <br/>
+  <li>
+   :seedling: Estou aprendendo mais sobre Docker no momento 
+  </li>
+  <br/>
+  <li>
+   :mechanical_arm: Estudei mecânica por muito tempo, sou técnico em mecânica industrial e atualmente curso engenharia mecânica
+  </li>
+  <br/>
+  <li>
+   :video_game: Amo jogos online, em especial World of Warcraft, pela Horda !! :zombie_man:
+  </li>
+</ul>  
 
 ## Contatos
 
