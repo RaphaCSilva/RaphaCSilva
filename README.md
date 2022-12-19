@@ -6,10 +6,6 @@
   </li>
   <br/>
   <li>
-    🔭 Atualmente estou trabalhando no projeto <a href = "https://github.com/RaphaCSilva/Daga-front-end"> Daga</a>, ainda esta em andamento, mas vai ser um jogo bem legal
-  </li>
-  <br/>
-  <li>
    :seedling: Estou aprendendo mais sobre Docker no momento 
   </li>
   <br/>
